@@ -1,0 +1,5 @@
+Ce qui me frappe le plus avec l'IA, ce n'est pas qu'elle sache écrire du code. C'est la vitesse à laquelle elle rend possible quelque chose qui, peu de temps auparavant, aurait demandé plusieurs jours ou plusieurs semaines de travail.
+
+Une idée peut devenir un prototype avant même que la discussion sur sa faisabilité soit terminée. Un développeur peut explorer une piste sans attendre qu'une équipe entière soit disponible. Quelqu'un qui ne sait pas programmer peut parfois construire une première version de ce qu'il imagine. Tout cela ne signifie pas qu'un prototype soit un produit fiable, ni que la complexité ait disparu. Mais le simple fait de pouvoir essayer change déjà notre rapport à ce qui semblait possible.
+
+Or nos entreprises n'ont pas été construites pour un monde où produire une première solution peut devenir aussi rapide.
